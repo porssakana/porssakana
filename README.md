@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Electrical engineer and Python developer</h3>
+<h3 align="center">Electrical engineer and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porssakana&label=Profile%20views&color=0e75b6&style=flat" alt="porssakana" /> </p>
 
-- 🔭 I’m currently working on **Web scraping and data analysis**
+- 🔭 I’m currently working on **Workout tracking mobile app**
 
 - 🌱 I’m currently learning **Data Types and Algorithms**
 
